@@ -1,7 +1,7 @@
 # Ver ejemplo del proyecto
 
 * https://edvincanastuj.github.io/loginhtml/
-* [![imagen-2023-06-10-200902833.png](https://i.postimg.cc/WbhX4pMy/imagen-2023-06-10-200902833.png)](https://postimg.cc/N5v1JcC8)
+ [![imagen-2023-06-10-200902833.png](https://i.postimg.cc/WbhX4pMy/imagen-2023-06-10-200902833.png)](https://postimg.cc/N5v1JcC8)
 
 
 
